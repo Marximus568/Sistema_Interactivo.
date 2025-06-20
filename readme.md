@@ -1,47 +1,28 @@
-README - Sistema_Interactivo(HTML, CSS AND JAVASCRIPT)
+Project Description
+This project is designed to verify if the user is an adult or a minor. Each message is personalized to clearly show where the error is.
 
-Descripción del Proyecto
+Start: Welcome and general introduction.
 
-Este proyecto consiste en comprobar si el usuario es mayor o menor de edad. Cada mensaje es personalizado para evidenciar en donde esta el error.
+The design is responsive, using CSS Flexbox.
 
-Inicio: Bienvenida y presentación general.
+How to Use the Project
+The project should be run in a web browser. To start it, open the index.html file.
 
+Open the index.html file in your favorite browser.
 
-El diseño es adaptativo, utilizando CSS Flexbox.
-
-Cómo usar el proyecto:
-
-
-Clona el repositorio:
-
-git clone https://github.com/tu-usuario/tienda-en-linea.git
-
-
-
-Navega a la carpeta del proyecto:
-
-cd tienda-en-linea
-
-Abre el archivo index.html en tu navegador favorito.
-
-
-
-Estructura del repositorio
-
-/css
-  └─ styles.css
-/img
-  └─ (Imágenes del proyecto)
-/mockups
-  └─ (Archivos de diseño)
-index.html
-README.md
-
-Información del Coder
-
-Nombre: Marx Engels Leal Brochero
+Repository Structure
+pgsql
+Copy
+Edit
+📦 project-name/
+├── index.html
+├── README.md
+└── src/
+    ├── css/
+    │   └── style.css
+    └── js/
+        └── sistema_interactivo.js
+Coder Information
+Name: Marx Engels Leal Brochero
 Clan: Sierra
 
-Correo:marximusleal568@gmail.com
-
-Documento de identidad: 1151472436
